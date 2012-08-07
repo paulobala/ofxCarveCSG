@@ -2,6 +2,8 @@
 
 ofxCarveCSG allows for boolean operations (intersection, union, difference and symetric difference) between two ofMesh meshes. Check the [video](https://vimeo.com/47096148) for a better idea.
 
+Compile with LLVM GCC 4.2
+
 ## License
 
 This code is open source, under the MIT license.
